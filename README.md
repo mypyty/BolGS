@@ -1,0 +1,2 @@
+# BolGS
+học làm script
